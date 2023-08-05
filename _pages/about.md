@@ -14,7 +14,7 @@ profile:
     <p> Hanbit Bldg. #403 </p>
     <p> GANGWONDAEHAKGIL1 </p>
     <p> CHUNCHEON </p>
-	  <p> GANGWON STATE </p>
+		<p> GANGWON STATE </p>
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
