@@ -7,56 +7,65 @@ nav: true
 nav_order: 5
 ---
 
-2023 Spring
-Data Communications
-Linear Algebra
-Technical English for Computer Science
-Career Planning
+* 2023 Spring <br>
+Data Communications <br>
+Linear Algebra <br>
+Technical English for Computer Science <br>
+Career Planning <br>
 
-2022 Fall
-Computer Networks
-Advanced Network Simulations (for the graduate)
-Algorithms
-Career Planning
 
-2022 Spring
-Data Communications
-Linear Algebra
-C++ Programming
-Career Planning
+* 2022 Fall <br>
+Computer Networks <br>
+Advanced Network Simulations (for the graduate) <br>
+Algorithms <br>
+Career Planning <br>
 
-2021 Fall
-Computer Networks
-Algorithms
-Object-Oriented Programming
-Career Planning
 
-2021 Spring
-Data Communications
-Linear Algebra
-Python Programming
-Career Planning
-Computer Organization & Architecture  (for education graduate school students)
+* 2022 Spring <br>
+Data Communications <br>
+Linear Algebra <br>
+C++ Programming <br>
+Career Planning <br>
 
-2020 Fall
-Computer Networks
-Algorithms
-Object-Oriented Programming
 
-2020 Summer
-Python Programming
+* 2021 Fall <br>
+Computer Networks <br>
+Algorithms <br>
+Object-Oriented Programming <br>
+Career Planning <br>
 
-2020 Spring
-Data Communications
-Linear Algebra
-Python Programming
 
-2019 Fall
-Computer Networks
-Mobile Programming
-Advanced Computer Networks (for the graduate)
+* 2021 Spring <br>
+Data Communications <br>
+Linear Algebra <br>
+Python Programming <br>
+Career Planning <br>
+Computer Organization & Architecture  (for education graduate school students) <br>
 
-2019 Spring
-Operating Systems
-Computer Organization & Architecture
-C Programming Language
+
+* 2020 Fall <br>
+Computer Networks <br>
+Algorithms <br>
+Object-Oriented Programming <br>
+
+
+* 2020 Summer <br>
+Python Programming <br>
+
+
+* 2020 Spring <br>
+Data Communications <br>
+Linear Algebra <br>
+Python Programming <br>
+
+
+* 2019 Fall <br>
+Computer Networks <br>
+Mobile Programming <br>
+Advanced Computer Networks (for the graduate) <br>
+
+
+* 2019 Spring <br>
+Operating Systems <br>
+Computer Organization & Architecture <br>
+C Programming Language <br>
