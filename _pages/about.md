@@ -2,7 +2,9 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://icn.kangwon.ac.kr'>Intelligence in Computer Networking Lab</a>, <a href='https://cse.kangwon.ac.kr'> Dept. of Computer Science and Engineering in KNU</a>
+subtitle: >
+<p> <a href='https://icn.kangwon.ac.kr'>Intelligence in Computer Networking Lab</a> </p>
+<p> <a href='https://cse.kangwon.ac.kr'> Dept. of Computer Science and Engineering in KNU</a> </p>
 
 profile:
   align: right
