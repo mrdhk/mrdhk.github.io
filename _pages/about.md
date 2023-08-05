@@ -3,8 +3,7 @@ layout: about
 title: about
 permalink: /
 subtitle: >
-<p> <a href='https://icn.kangwon.ac.kr'>Intelligence in Computer Networking Lab</a> </p>
-<p> <a href='https://cse.kangwon.ac.kr'> Dept. of Computer Science and Engineering in KNU</a> </p>
+    <a href='https://icn.kangwon.ac.kr'> Intelligence in Computer Networking Lab, </a> <a href='https://cse.kangwon.ac.kr'> Dept. of Computer Science and Engineering in KNU </a>
 
 profile:
   align: right
@@ -14,7 +13,7 @@ profile:
     <p> Hanbit Bldg. #403 </p>
     <p> GANGWONDAEHAKGIL1 </p>
     <p> CHUNCHEON </p>
-		<p> GANGWON STATE </p>
+    <p> GANGWON STATE </p>
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
