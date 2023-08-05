@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='https://icn.kangwon.ac.kr'>Intelligence in Computer Networking</a>, <a href='https://www.kangwon.ac.kr'>Kangwon National University</a>
 
 profile:
   align: right
