@@ -2,16 +2,17 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://icn.kangwon.ac.kr'>Intelligence in Computer Networking Lab</a>, <a href='https://cse.kangwon.ac.kr'> Department of Computer Science and Engineering in KNU</a>
+subtitle: <a href='https://icn.kangwon.ac.kr'>Intelligence in Computer Networking Lab</a>, <a href='https://cse.kangwon.ac.kr'> Dept. of Computer Science and Engineering in KNU</a>
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>Hanbit Bldg. #403</p>
-    <p>Gangwondaehakgil1</p>
-    <p>Chuncheon, Gangwon-state</p>
+    <p> Hanbit Bldg. #403 </p>
+    <p> GANGWONDAEHAKGIL1 </p>
+    <p> CHUNCHEON </p>
+	  <p> GANGWON STATE </p>
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
