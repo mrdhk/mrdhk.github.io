@@ -7,6 +7,56 @@ nav: true
 nav_order: 5
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+2023 Spring
+Data Communications
+Linear Algebra
+Technical English for Computer Science
+Career Planning
 
-Organize your courses by years, topics, or universities, however you like!
+2022 Fall
+Computer Networks
+Advanced Network Simulations (for the graduate)
+Algorithms
+Career Planning
+
+2022 Spring
+Data Communications
+Linear Algebra
+C++ Programming
+Career Planning
+
+2021 Fall
+Computer Networks
+Algorithms
+Object-Oriented Programming
+Career Planning
+
+2021 Spring
+Data Communications
+Linear Algebra
+Python Programming
+Career Planning
+Computer Organization & Architecture  (for education graduate school students)
+
+2020 Fall
+Computer Networks
+Algorithms
+Object-Oriented Programming
+
+2020 Summer
+Python Programming
+
+2020 Spring
+Data Communications
+Linear Algebra
+Python Programming
+
+2019 Fall
+Computer Networks
+Mobile Programming
+Advanced Computer Networks (for the graduate)
+
+2019 Spring
+Operating Systems
+Computer Organization & Architecture
+C Programming Language
