@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Integrated Vehicular Networking Systems for highly reliable real-time services
-description: a project with a background image
+description: Mar. 2019 ~ Jan. 2020
 img: 
 importance: 1
 category: NRF
