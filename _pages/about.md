@@ -1,6 +1,6 @@
 ---
 layout: about
-title: About
+title: about
 permalink: /
 subtitle: >
     <a href='https://icn.kangwon.ac.kr'> Intelligence in Computer Networking Lab, </a> <a href='https://cse.kangwon.ac.kr'> Dept. of Computer Science and Engineering in KNU </a>
