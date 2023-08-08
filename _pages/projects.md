@@ -5,7 +5,7 @@ permalink: /projects/
 description: A growing collection of your cool projects.
 nav: true
 nav_order: 2
-display_categories: [NRF, work, fun]
+display_categories: [NRF, IITP, Others]
 horizontal: true
 ---
 
