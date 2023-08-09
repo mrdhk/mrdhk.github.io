@@ -3,7 +3,7 @@ layout: page
 title: Intelligent UAV-assisted self-tuning vehicular networks
 description: Mar. 2018 ~ Feb. 2020
 img:
-importance: 2
+importance: 3 
 category: NRF
 related_publications:
 ---

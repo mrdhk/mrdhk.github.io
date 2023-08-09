@@ -3,7 +3,7 @@ layout: page
 title: Integrated Vehicular Networking Systems for highly reliable real-time services
 description: Jun. 2016 ~ May. 2018
 img: 
-importance: 3
+importance: 1
 category: NRF
 related_publications:
 ---
