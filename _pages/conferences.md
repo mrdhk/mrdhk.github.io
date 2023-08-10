@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: publications
-description: International journals
+description: ...
 nav: true
 nav_order: 1
 ---

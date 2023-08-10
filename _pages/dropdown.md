@@ -5,7 +5,7 @@ nav: true
 nav_order: 6
 dropdown: true
 children: 
-    - title: journalss
+    - title: journals
       permalink: /journals/
     - title: divider
     - title: conferences
