@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /journals/
-title: journals
+permalink: /publications/
+title: publications
 description: International journals
 nav: true
 nav_order: 1
