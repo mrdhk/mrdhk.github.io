@@ -1,16 +1,14 @@
 ---
 layout: page
+permalink: /publications/
 title: publications
+description: ...
 nav: true
-nav_order: 6
-dropdown: true
-children: 
-    - title: journals
-      permalink: /journals/
-    - title: divider
-    - title: conferences
-      permalink: /conferences/
-    - title: divider
-    - title: patents
-      permalink: /patents/
+nav_order: 1
 ---
+<!-- _pages/publications.md -->
+<div class="publications">
+
+{% bibliography -f {{ site.scholar.bibliography }} %}
+
+</div>
