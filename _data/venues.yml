@@ -1,9 +1,7 @@
-"AJP":
+"TPDS":
   url: https://aapt.scitation.org/journal/ajp
-  color: "#00369f"
+  color: "#DB7093"
 
 "PhysRev":
   url: https://journals.aps.org/
 
-"TPDS":
-	color: "#DB7093"
