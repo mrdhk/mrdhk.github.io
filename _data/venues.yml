@@ -42,9 +42,9 @@
   url:
   color: "#DB7093"
 
-"PhysRev":
-  url: https://journals.aps.org/
-
-"PhysRev":
+"PATENT":
   url:
 	color: "#FFCA28"
+
+"PhysRev":
+  url: https://journals.aps.org/
