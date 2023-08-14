@@ -16,28 +16,24 @@ nav_order: 1
 <hr>
 <h3> domestic journals & conferences </h3>
 <hr>
-<span style = "font-size:50">
+<span style = "font-size:40">
 >
 - 이준석 and 김도형, "NDN에서 off-path 콘텐츠 접근기법들에 대한 성능 비교 연구", 정보처리학회논문지, 2021
 - 김준형, 최홍범, 고영배, 김도형, 최재각, 한철희, and 최증원, "인지 무선 모바일 애드혹 네트워크를 위한 다중 메트릭 기반 멀티 홉 클러스터링 기법," 한국통신학회 논문지, 2019
 - 장진경, 임지훈, 김도형, 고영배, 김정식,  and 서명환, "클러스터링 기반 인지 무선 애드혹 라우팅 프로토콜의 경로 복구 오버헤드 감소 기법," 전기전자학회논문지, 2019
 - 김동훈, 장진경, 고영배, and 김도형, "ACO를 활용한 RPL 안정성 향상 기법," 한국통신학회 동계종합학술발표회, 2019
 - 김유성, 김도형, and 염익준, "콘텐츠 중심 네트워크에서의 이동성 연구 동향," 한국통신학회지 (정보와 통신), 2012 
-</span>
 
 <hr>
 <h3> tech. report </h3>
 <hr>
-<span style = "font-size:50">
 >
 Dohyung Kim, Hyunsoo Yoon and Ikjun Yeom, “Access Delay Fairness in IEEE 802.11 WLANs,” Technical Report, CS-TR-2013-381 KAIST 
-</span>
 
 
 <hr>
 <h3> patents </h3>
 <hr>
-<span style = "font-size:50">
 >
 - Minhyung Kim, Junseok Lee, and Dohyung Kim, “UDP 플러딩 공격으로부터 자유로울 수 있는 QUIC 기반 통신 시스템”, Korea, Application Number 10-2022-0150481 (filing data: Nov. 11, 2022)
 - Junhyeok Hwang and Dohyung Kim,”효율적인 차량흐름을 위한 집단 자율주행 제어 시스템,” Korea, Application Number 10-2022-0107665 (filing date: Aug. 26, 2022)
