@@ -16,7 +16,7 @@ nav_order: 1
 <hr>
 <h3> domestic journals & conferences </h3>
 <hr>
-<span style = "font-size:40">
+<span style = "font-size:20">
 >
 - 이준석 and 김도형, "NDN에서 off-path 콘텐츠 접근기법들에 대한 성능 비교 연구", 정보처리학회논문지, 2021
 - 김준형, 최홍범, 고영배, 김도형, 최재각, 한철희, and 최증원, "인지 무선 모바일 애드혹 네트워크를 위한 다중 메트릭 기반 멀티 홉 클러스터링 기법," 한국통신학회 논문지, 2019
@@ -25,7 +25,7 @@ nav_order: 1
 - 김유성, 김도형, and 염익준, "콘텐츠 중심 네트워크에서의 이동성 연구 동향," 한국통신학회지 (정보와 통신), 2012 
 
 <hr>
-<h3> tech. report </h3>
+<h3> tech. reports. </h3>
 <hr>
 >
 Dohyung Kim, Hyunsoo Yoon and Ikjun Yeom, “Access Delay Fairness in IEEE 802.11 WLANs,” Technical Report, CS-TR-2013-381 KAIST 
@@ -48,4 +48,3 @@ Dohyung Kim, Hyunsoo Yoon and Ikjun Yeom, “Access Delay Fairness in IEEE 802.1
 - Jonghwan Kim, Ilgu Jung, Won Ryu, Dohyung Kim, Ikjun Yeom, “모바일 애드혹 네트워크 환경에서 ICN 기반 콘텐츠 통신 방법 및 장치, “ Korea Application Number 10-2014-0012660 (filing date: Feb. 4, 2014)
 - Jonghwan Kim, Changwoo Yoon, Dohyung Kim, Ikjun Yeom, “User terminal and communication apparatus for preventing interruption of communication in Information centric network and method thereof,” US Patent App.14/054,359, Oct. 10, 2013
 - Jonghwan Kim, Changwoo Yoon, Dohyung Kim, Ikjun Yeom, “핸드오프시 통신 단절 방지를 위한 사용자 단말과 통신 장치 및 그 방법,” Korea Application Number 10-2013-0087585, (filing date: Jul. 24, 2013)
-</span>
