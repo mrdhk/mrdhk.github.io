@@ -14,9 +14,9 @@ nav_order: 1
 </div>
 
 
-<h2> patents </h2>
 <hr>
-<h5>
+<h3> patents </h3>
+<hr>
 >
 - Minhyung Kim, Junseok Lee, and Dohyung Kim, “UDP 플러딩 공격으로부터 자유로울 수 있는 QUIC 기반 통신 시스템”, Korea, Application Number 10-2022-0150481 (filing data: Nov. 11, 2022)
 - Junhyeok Hwang and Dohyung Kim,”효율적인 차량흐름을 위한 집단 자율주행 제어 시스템,” Korea, Application Number 10-2022-0107665 (filing date: Aug. 26, 2022)
@@ -32,4 +32,3 @@ nav_order: 1
 - Jonghwan Kim, Changwoo Yoon, Dohyung Kim, Ikjun Yeom, “User terminal and communication apparatus for preventing interruption of communication in Information centric network and method thereof,” US Patent App.14/054,359, Oct. 10, 2013
 - Jonghwan Kim, Changwoo Yoon, Dohyung Kim, Ikjun Yeom, “핸드오프시 통신 단절 방지를 위한 사용자 단말과 통신 장치 및 그 방법,” Korea Application Number 10-2013-0087585, (filing date: Jul. 24, 2013)
 
-	</h5>
