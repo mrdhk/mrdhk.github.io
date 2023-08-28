@@ -39,9 +39,9 @@
   type: nested_list
   contents:
     - title: Technical committee
-	- item: IEEE WCNC (2021, 2022)
-	- item: IEEE BigComp (2020)
-	- item: ACM ICN (Demo & Poster session, 2017)
+      item: IEEE WCNC (2021, 2022)
+      item: IEEE BigComp (2020)
+      item: ACM ICN (Demo & Poster session, 2017)
 
 - title: Academic Interests
   type: nested_list
