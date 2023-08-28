@@ -3,10 +3,10 @@
   contents:
     - name: Full Name
       value: Dohyung Kim
-    - name: Date of Birth
-      value: 29th May 1980
-    - name: Languages
-      value: English, Korean
+    - name: Current Position
+      value: Assistant Professor in Kangwon National University 
+    - name: Research Domain
+      value: Computer Networking
 
 - title: Education
   type: time_table
