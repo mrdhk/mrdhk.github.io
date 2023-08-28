@@ -1,18 +1,17 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Dohyung Kim",
+    "label": "Assistant Professor",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "mr.dhkim (at) gmail.com, d.kim (at) kangwon.ac.kr",
+    "url": "https://mrdhk.github.io",
+    "Research interests": "Computer networking, Internet architecture, Innovative systems & services utilizing ML/RL",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "Hanbit bldg. #403, Gangwondaehak-gil 1",
+      "postalCode": "24341",
+      "city": "Chuncheon",
+      "countryCode": "KR",
+      "region": "Kangwon-do"
     },
     "profiles": [
       {
@@ -24,38 +23,37 @@
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
+      "name": "Kangwon National University, South Korea",
+      "position": "Assistant Professor",
+      "url": "https://icn.kangwon.ac.kr",
+      "startDate": "2019-03-01",
+      "endDate": "now",
+      "summary": "Dept. of Computer Science and Engineering",
       "highlights": [
-        "Relativity"
+        "Computer Networks", "Internet"
       ]
     }
   ],
   "volunteer": [],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
+      "institution": "KAIST, South Korea",
+      "url": "https://www.kaist.ac.kr/",
+      "area": "Computer Science",
       "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
+      "startDate": "",
+      "endDate": "2014-08-22",
       "score": "",
       "courses": [
-        "Theory of Relativity"
+        "Future Internet architectures", "Controls on the Internet"
       ]
     }
   ],
-  "awards": [
+  "activities": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "venue": "IEEE WCNC",
+      "activity": "technical committee",
+      "date": "2021, 2022",
     }
   ],
   "certificates": [],
@@ -63,7 +61,7 @@
   "skills": [],
   "languages": [
     {
-      "language": "German",
+      "language": "Korean",
       "fluency": "Native speaker"
     },
     {
