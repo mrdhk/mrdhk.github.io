@@ -39,9 +39,21 @@
   type: nested_list
   contents:
     - title: Technical committee
-      item: IEEE WCNC (2021, 2022)
-      item: IEEE BigComp (2020)
-      item: ACM ICN (Demo & Poster session, 2017)
+      item: 
+      - IEEE WCNC (2021, 2022)
+      - IEEE BigComp (2020)
+      - ACM ICN (Demo & Poster session, 2017)
+    - title: Reviewer
+      item:
+      - IEEE/ACM Transactions on Networking
+      - IEEE Transactions on Vehicular Technology
+      - IEEE Transactions on Wireless Communications 
+      - IEEE Communications Letters (selected as an examplary reviewers in 2015)
+      - IEEE Wireless Communications Letters
+      - Elsevier Computer Communications
+      - Elsevier Journal of Network and Computer Applications
+      - Elsevier Computer Networks
+      - etc.
 
 - title: Academic Interests
   type: nested_list
