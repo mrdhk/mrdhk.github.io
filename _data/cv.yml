@@ -15,18 +15,7 @@
       institution: KAIST, Daejeon, South Korea
       year: 2014
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+        - in Department of Computer Science
 
 - title: Experience
   type: time_table
@@ -46,30 +35,19 @@
       year: 2014 - 2018
 
 
-- title: Honors and Awards
-  type: time_table
+- title: Professional Activities
+  type: nested_list
   contents:
-    - year: 1921
-      items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
-      items: 
-        - Max Planck Medal
+    - title: Technical committee
+	- item: IEEE WCNC (2021, 2022)
+	- item: IEEE BigComp (2020)
+	- item: ACM ICN (Demo & Poster session, 2017)
 
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
-      items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
+    - title: Internet of Vehicles
+    - title: Future Internet Architectures
+    - title: Intelligent computing systems using ML/RL
 
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+
