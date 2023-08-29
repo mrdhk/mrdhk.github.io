@@ -7,6 +7,12 @@ nav: true
 nav_order: 5
 ---
 
+> 2023 Fall <br>
+- Computer Networks <br>
+- Algorithms <br>
+- Career Planning <br>
+
+
 > 2023 Spring <br>
 - Data Communications <br>
 - Linear Algebra <br>
