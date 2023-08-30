@@ -57,7 +57,7 @@
         - etc.
 
 - title: Academic Interests
-  type: nested_list
+  type: list
   contents:
     - title: Internet of Vehicles
     - title: Future Internet Architectures
