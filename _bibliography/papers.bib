@@ -3,10 +3,37 @@
 
 @string{aps = {American Physical Society,}}
 
+
+@article{hwang2024if,
+  bibtex_show = {true},
+  abbr = {T-IV},
+  abstract = {Recently, self-driving vehicles have been actively studied and have begun to operate on actual roads. Most of the current self-driving vehicles rely on a number of sensors to individually judge the situation and take action. However, from a road perspective, a collection of individual vehicles' decisions is inevitably sub-optimal, and it is essential that roads directly intervene (control/assist) in vehicle operation for optimal traffic management. This paper proposes Software-Defined Traffic Management (SDTM) that incorporates the concept of Software-Defined Networking (SDN) into the transportation environment. In SDTM, each vehicle is handled like a packet in SDN and its movement can be assisted/controlled using a global view of the road. To this end, SDTM enables reliable interaction between vehicles and infrastructure (RSU/controller) by 1) allocating collision-free channels to vehicles, 2) reducing vehicle's messaging interval by fully utilizing available channel resources, and 3) redistributing sensitive information from the infrastructure. Based on the traffic information collected and reported by RSU, the controller induces vehicle to form clusters and controls/assists the movement of vehicles on a cluster-by-cluster basis, implementing safe and efficient traffic flows. According to the performance evaluation using the ns-3 simulator, under SDTM, vehicles experience an average travel time reduced by 30% (more than 97% of all vehicles experience shorter travel time) compared to the real traffic traces, while maintaining a safety distance.},
+  title={What If Vehicles are Controlled by the Road?},
+  author={Hwang, Junhyeok and Lim, Keun-Woo and Kim, Dohyung},
+  journal={IEEE Transactions on Intelligent Vehicles},
+  year={2024},
+  publisher={IEEE}
+  selected={true}
+}
+
+@inproceedings{lee2024rescuing,
+  bibtex_show={true},
+  abbr = {SAC},
+  abstract = {Due to advantages such as quick connection establishment and multiple streaming over a single connection, QUIC was included in the new standard of HTTP 3.0 as an alternative transport layer protocol. Since QUIC operates on UDP, however, QUIC flows can be blocked by existing countermeasures against UDP flooding attacks, even if transmission rates are fairly controlled by congestion control algorithms, such as TCP. In this paper, we confirm that such a problem arises in real-world Internet environment and design effective approaches to avoid it. In the first approach, the gateway router dynamically sets the rate limit for the QUIC flow, based on the expected next CWND size estimated by the receiver using a built-in congestion control algorithm. The second approach leverages the proactive dropping of packets (or ECN marking) to distinguish whether the flow is a self-regulated QUIC flow or an unresponsive UDP attack/selfish flow. Simulation studies using the ns-3 simulator confirm that the proposed approaches can selectively allow QUIC flows regardless of their short-term transmission rates while preserving the effectiveness of existing countermeasures against UDP flooding attacks.},
+  title={Rescuing QUIC Flows From Countermeasures Against UDP Flooding Attacks},
+  author={Lee, Junseok and Kim, Minhyeong and Song, Wonjun and Kim, Younghoon and Kim, Dohyung},
+  booktitle={Proceedings of the 39th ACM/SIGAPP Symposium on Applied Computing},
+  pages={1072--1080},
+  year={2024}
+  organization = {ACM/SIGAPP}
+  award = {Best paper award}
+}
+
+
 @inproceedings{ji2022repcoder,
   bibtex_show={true},
   abbr = {SAC},
-	abstract = {Recently, machine learning-based automated program synthesis and repair have extensively been investigated for various domain-specific and general-purpose programming languages. In this paper, we revisit the problem of synthesizing programs from input-output examples, and reformulate it as a problem of program repair. More specifically, we propose an automated program repair framework, called RepCoder, that can be used with a neural program synthesis method such as DeepCoder and PCCoder. Given a set of input-output examples and a user program with some errors, RepCoder effectively reduces the search space by considering user-written statements to be correct with high likelihood if they are included in the top-k candidate statements predicted by the employed neural synthesis method. Otherwise, they are considered to be incorrect and replaced with the candidate statements with the highest probabilities that are consistent with the given input-output examples. Our experimental studies confirm that RepCoder using PCCoder as the main predictor effectively and efficiently repairs erroneous programs, showing that it achieves up to 3&times; the error correction rate compared to when using only PCCoder for repair, i.e., synthesizing a program from scratch without considering the given user program.},
+  abstract = {Recently, machine learning-based automated program synthesis and repair have extensively been investigated for various domain-specific and general-purpose programming languages. In this paper, we revisit the problem of synthesizing programs from input-output examples, and reformulate it as a problem of program repair. More specifically, we propose an automated program repair framework, called RepCoder, that can be used with a neural program synthesis method such as DeepCoder and PCCoder. Given a set of input-output examples and a user program with some errors, RepCoder effectively reduces the search space by considering user-written statements to be correct with high likelihood if they are included in the top-k candidate statements predicted by the employed neural synthesis method. Otherwise, they are considered to be incorrect and replaced with the candidate statements with the highest probabilities that are consistent with the given input-output examples. Our experimental studies confirm that RepCoder using PCCoder as the main predictor effectively and efficiently repairs erroneous programs, showing that it achieves up to 3&times; the error correction rate compared to when using only PCCoder for repair, i.e., synthesizing a program from scratch without considering the given user program.},
   title={RepCoder: an automated program repair framework for probability-based program synthesis},
   author={Ji, Suhwan and Choi, Sang-Min and Ko, Sang-Ki and Kim, Dohyung and Im, Hyeonseung},
   booktitle={Proceedings of the 37th ACM/SIGAPP Symposium on Applied Computing},
