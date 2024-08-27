@@ -185,12 +185,12 @@
           {%- if entry.website %}
             <a href="{{ entry.website }}" class="btn btn-sm z-depth-0" role="button">Website</a>
           {%- endif %}
-	  {%- if entry.award %}
-            <a class="award btn btn-sm z-depth-0" role="button">
-	    {%- if entry.award_name %} {{entry.award_name}}{% else %} Best paper {% endif -%}
-	    </a>
-          {%- endif %}
-          </div>
+	  {% if entry.award %}
+          <a class="award btn btn-sm z-depth-0" role="button">
+            {%- if entry.award_name %}{{ entry.award_name }}{% else %}Best paper{% endif -%}
+          </a>
+          {% endif %}
+	 </div>
 
           {% if site.badges %}
           <div class="badges">
@@ -236,5 +236,13 @@
             {% highlight bibtex %}{{ entry.bibtex | hideCustomBibtex }}{% endhighlight %}
           </div>
           {%- endif %}
+
+          {% if entry.award %}
+          <!-- Hidden Award block -->
+          <div class="award hidden d-print-inline">
+            <p>{{ entry.award | markdownify }}</p>
+          </div>
+          {% endif %}
+          
         </div>
       </div>
